@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSS TCMB Döviz", "RSS TCMB Döviz.csproj", "{CBDFD287-3AA7-493A-94C5-F32CC1C0AC9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBDFD287-3AA7-493A-94C5-F32CC1C0AC9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBDFD287-3AA7-493A-94C5-F32CC1C0AC9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBDFD287-3AA7-493A-94C5-F32CC1C0AC9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBDFD287-3AA7-493A-94C5-F32CC1C0AC9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83FBB1DB-F78E-44F0-BDA9-B00F47F19C19}
+	EndGlobalSection
+EndGlobal

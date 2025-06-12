@@ -1,0 +1,37 @@
+Visual Studio
+---------------------------------------
+1- Yeni Proje / Hizmet 
+2- Service1[Tasarım]
+      sağ tıkla/Yükleyici ekle -> ProjectInstaller.cs
+          serviceProcessInstaller
+              Account      ->  LocalSystem
+          serviceInstaller
+              Description  ->  Açıklama
+              DisplayName  ->  Görünen ad
+              StartType    ->  Başlama türü
+3- Service1.cs  -> Kod yazılır
+       OnStart  -> Hizmet başlarken çalışacak kod
+       OnStop   -> Hizmet durudulduğunda çalışacak kod
+
+4- Çözümü derle -> WindowsService1.exe oluşur
+
+
+CMD (Komut İstemi)
+------------------------------
+1- InstallUtil
+-------------------
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe Projeklasörü\bin\debug\WindowsService1.exe
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u Projeklasörü\bin\debug\WindowsService1.exe
+
+2- sc komutu
+-----------------
+sc create "ServisAdi" binPath= "C:\ServisYolu\SeninServisin.exe"
+sc Start "ServisAdi"
+sc Stop "ServisAdi"
+sc delete "ServisAdi"
+
+
+Hizmetler
+-------------------------
+Hizmet üzerinde sağ tık / başlat
+

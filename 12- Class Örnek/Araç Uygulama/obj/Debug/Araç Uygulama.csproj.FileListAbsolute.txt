@@ -1,0 +1,26 @@
+D:\Masaüstü\Araç Uygulama\bin\Debug\Araç Uygulama.exe.config
+D:\Masaüstü\Araç Uygulama\bin\Debug\Araç Uygulama.exe
+D:\Masaüstü\Araç Uygulama\bin\Debug\Araç Uygulama.pdb
+D:\Masaüstü\Araç Uygulama\bin\Debug\Araç Kütüphane.dll
+D:\Masaüstü\Araç Uygulama\bin\Debug\Araç Kütüphane.pdb
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç Uygulama.csprojAssemblyReference.cache
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç_Uygulama.Form1.resources
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç_Uygulama.Properties.Resources.resources
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.GenerateResource.cache
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.CopyComplete
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç Uygulama.exe
+D:\Masaüstü\Araç Uygulama\obj\Debug\Araç Uygulama.pdb
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\bin\Debug\Araç Uygulama.exe.config
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\bin\Debug\Araç Uygulama.exe
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\bin\Debug\Araç Uygulama.pdb
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\bin\Debug\Araç Kütüphane.dll
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\bin\Debug\Araç Kütüphane.pdb
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç_Uygulama.Form1.resources
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç_Uygulama.Properties.Resources.resources
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç Uygulama.csproj.CopyComplete
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç Uygulama.exe
+C:\Users\User\Desktop\Class Örnek\Araç Uygulama\obj\Debug\Araç Uygulama.pdb

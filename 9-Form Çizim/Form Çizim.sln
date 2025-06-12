@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Form Çizim", "Form Çizim.csproj", "{AB170E1E-DAD3-430C-ACA5-42D33AF93B82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB170E1E-DAD3-430C-ACA5-42D33AF93B82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB170E1E-DAD3-430C-ACA5-42D33AF93B82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB170E1E-DAD3-430C-ACA5-42D33AF93B82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB170E1E-DAD3-430C-ACA5-42D33AF93B82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED0DDE26-58E6-4A2C-8B12-E84B8148BBED}
+	EndGlobalSection
+EndGlobal

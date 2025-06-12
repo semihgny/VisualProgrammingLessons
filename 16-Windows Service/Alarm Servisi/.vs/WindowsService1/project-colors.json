@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7482afb5-ef27-4869-b592-671bfa8ee830": {
+      "ProjectGuid": "7482afb5-ef27-4869-b592-671bfa8ee830",
+      "DisplayName": "WindowsService1",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

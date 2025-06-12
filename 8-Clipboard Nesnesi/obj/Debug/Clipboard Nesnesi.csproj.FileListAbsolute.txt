@@ -1,0 +1,10 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\bin\Debug\Clipboard Nesnesi.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\bin\Debug\Clipboard Nesnesi.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\bin\Debug\Clipboard Nesnesi.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard Nesnesi.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard_Nesnesi.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard_Nesnesi.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard Nesnesi.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard Nesnesi.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard Nesnesi.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\8-Clipboard Nesnesi\obj\Debug\Clipboard Nesnesi.pdb

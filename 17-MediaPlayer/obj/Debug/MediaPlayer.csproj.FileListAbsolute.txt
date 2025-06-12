@@ -1,0 +1,31 @@
+D:\Masaüstü\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\Masaüstü\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\Masaüstü\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\Masaüstü\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Masaüstü\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.csprojAssemblyReference.cache
+D:\Masaüstü\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Masaüstü\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\Masaüstü\MediaPlayer\obj\Debug\MediaPlayer.pdb
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\bin\Debug\MediaPlayer.exe.config
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\bin\Debug\MediaPlayer.exe
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\bin\Debug\MediaPlayer.pdb
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\bin\Debug\Interop.WMPLib.dll
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.csproj.AssemblyReference.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.csproj.SuggestedBindingRedirects.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\Interop.WMPLib.dll
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.csproj.ResolveComReference.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.Form1.resources
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.Properties.Resources.resources
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.exe
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\MediaPlayer\obj\Debug\MediaPlayer.pdb

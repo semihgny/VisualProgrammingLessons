@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "262e43c5-61df-4a25-9b20-41d4b0278d1c": {
+      "ProjectGuid": "262e43c5-61df-4a25-9b20-41d4b0278d1c",
+      "DisplayName": "DLL Kütüphanesi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Çalışma Zamanı Nesne Oluşturma (Tek Boyutlu Dizi)", "Çalışma Zamanı Nesne Oluşturma (Tek Boyutlu Dizi).csproj", "{A0AF158A-1914-4EC7-9353-A7D892ECD343}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0AF158A-1914-4EC7-9353-A7D892ECD343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0AF158A-1914-4EC7-9353-A7D892ECD343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0AF158A-1914-4EC7-9353-A7D892ECD343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0AF158A-1914-4EC7-9353-A7D892ECD343}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E20D24C2-DC7B-4C1B-A742-4F1BAB89178C}
+	EndGlobalSection
+EndGlobal

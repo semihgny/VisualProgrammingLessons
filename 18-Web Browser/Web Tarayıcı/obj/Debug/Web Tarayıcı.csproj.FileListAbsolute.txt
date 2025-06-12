@@ -1,0 +1,31 @@
+C:\Users\ilhan\source\repos\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe.config
+C:\Users\ilhan\source\repos\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe
+C:\Users\ilhan\source\repos\Web Tarayıcı\bin\Debug\Web Tarayıcı.pdb
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web Tarayıcı.csprojAssemblyReference.cache
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Form1.resources
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Properties.Resources.resources
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.GenerateResource.cache
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web Tarayıcı.exe
+C:\Users\ilhan\source\repos\Web Tarayıcı\obj\Debug\Web Tarayıcı.pdb
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe.config
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\bin\Debug\Web Tarayıcı.pdb
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web Tarayıcı.csprojAssemblyReference.cache
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Form1.resources
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Properties.Resources.resources
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.GenerateResource.cache
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web Tarayıcı.exe
+D:\Masaüstü\Görsel Prog\Web Tarayıcı\obj\Debug\Web Tarayıcı.pdb
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe.config
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\bin\Debug\Web Tarayıcı.exe
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\bin\Debug\Web Tarayıcı.pdb
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.AssemblyReference.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.SuggestedBindingRedirects.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Form1.resources
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web_Tarayıcı.Properties.Resources.resources
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web Tarayıcı.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web Tarayıcı.exe
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\Web Browser\Web Tarayıcı\obj\Debug\Web Tarayıcı.pdb

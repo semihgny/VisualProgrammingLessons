@@ -1,0 +1,30 @@
+C:\Users\ilhan\source\repos\YouTube\bin\Debug\YouTube.exe.config
+C:\Users\ilhan\source\repos\YouTube\bin\Debug\YouTube.exe
+C:\Users\ilhan\source\repos\YouTube\bin\Debug\YouTube.pdb
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.csprojAssemblyReference.cache
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.Form1.resources
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.csproj.CoreCompileInputs.cache
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.exe
+C:\Users\ilhan\source\repos\YouTube\obj\Debug\YouTube.pdb
+D:\Masaüstü\Görsel Prog\YouTube\bin\Debug\YouTube.exe.config
+D:\Masaüstü\Görsel Prog\YouTube\bin\Debug\YouTube.exe
+D:\Masaüstü\Görsel Prog\YouTube\bin\Debug\YouTube.pdb
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.csprojAssemblyReference.cache
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.Form1.resources
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.exe
+D:\Masaüstü\Görsel Prog\YouTube\obj\Debug\YouTube.pdb
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\bin\Debug\YouTube.exe.config
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\bin\Debug\YouTube.exe
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\bin\Debug\YouTube.pdb
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.csproj.AssemblyReference.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.Form1.resources
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.Properties.Resources.resources
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.csproj.GenerateResource.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.csproj.CoreCompileInputs.cache
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.exe
+D:\Mustafa İlhan Ders Notları\Görsel Programlama 2\18-Web Browser\YouTube\obj\Debug\YouTube.pdb

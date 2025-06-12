@@ -1,0 +1,6 @@
+D:\Masaüstü\Araç Kütüphane\bin\Debug\Araç Kütüphane.dll
+D:\Masaüstü\Araç Kütüphane\bin\Debug\Araç Kütüphane.pdb
+D:\Masaüstü\Araç Kütüphane\obj\Debug\Araç Kütüphane.csprojAssemblyReference.cache
+D:\Masaüstü\Araç Kütüphane\obj\Debug\Araç Kütüphane.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Araç Kütüphane\obj\Debug\Araç Kütüphane.dll
+D:\Masaüstü\Araç Kütüphane\obj\Debug\Araç Kütüphane.pdb

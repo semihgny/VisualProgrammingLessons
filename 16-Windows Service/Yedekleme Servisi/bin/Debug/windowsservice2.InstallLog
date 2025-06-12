@@ -1,0 +1,13 @@
+﻿'D:\Masaüstü\Windows Service\WindowsService2\bin\Debug\windowsservice2.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService2\bin\Debug\windowsservice2.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService2\bin\Debug\windowsservice2.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService2\bin\Debug\windowsservice2.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService2\bin\Debug\windowsservice2.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService2\bin\Debug\windowsservice2.InstallLog

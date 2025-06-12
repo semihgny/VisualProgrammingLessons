@@ -1,0 +1,31 @@
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.exe.config
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.exe
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.pdb
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csprojAssemblyReference.cache
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS_TCMB_Döviz.Form1.resources
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS_TCMB_Döviz.Properties.Resources.resources
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.exe
+D:\Google Drive\Visual Studio\Windows Forms\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.pdb
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.exe.config
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.exe
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.pdb
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csprojAssemblyReference.cache
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS_TCMB_Döviz.Form1.resources
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS_TCMB_Döviz.Properties.Resources.resources
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.GenerateResource.cache
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.exe
+D:\Masaüstü\Görsel Prog\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.pdb
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.exe.config
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.exe
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\bin\Debug\RSS TCMB Döviz.pdb
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.AssemblyReference.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.SuggestedBindingRedirects.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS_TCMB_Döviz.Form1.resources
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS_TCMB_Döviz.Properties.Resources.resources
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.GenerateResource.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.csproj.CoreCompileInputs.cache
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.exe
+D:\Google Drive\Visual Studio\Windows Forms\2-Bahar\RSS\RSS TCMB Döviz\obj\Debug\RSS TCMB Döviz.pdb

@@ -1,0 +1,10 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\bin\Debug\Belge Yazdırma.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\bin\Debug\Belge Yazdırma.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\bin\Debug\Belge Yazdırma.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge Yazdırma.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge_Yazdırma.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge_Yazdırma.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge Yazdırma.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge Yazdırma.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge Yazdırma.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\10-Belge Yazdırma\obj\Debug\Belge Yazdırma.pdb

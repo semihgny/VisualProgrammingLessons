@@ -1,0 +1,121 @@
+﻿'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+Service1 hizmetini durdurma girişimi.
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+Service1 hizmetini durdurma girişimi.
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 hizmeti yükleniyor...
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi geri alınıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 kaynağı için olay günlüğü önceki duruma döndürülüyor.
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.
+Service1 hizmetini durdurma girişimi.
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yükleniyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 hizmeti yükleniyor...
+Service1 hizmeti başarıyla yüklendi.
+Application günlüğünde Service1 EventLog kaynağı oluşturuluyor...
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi tamamlanıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+'D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe' derlemesi yüklemesi kaldırılıyor.
+Etkilenen parametreler şunlardır:
+   logtoconsole = 
+   assemblypath = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.exe
+   logfile = D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\windowsservice1.InstallLog
+Service1 EventLog kaynağı kaldırılıyor.
+Service1 hizmeti sistemden kaldırılıyor...
+Service1 hizmeti sistemden başarıyla kaldırıldı.

@@ -1,0 +1,30 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\bin\Debug\Form Çizim.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\bin\Debug\Form Çizim.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\bin\Debug\Form Çizim.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form Çizim.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form_Çizim.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form_Çizim.Form2.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form_Çizim.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form Çizim.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form Çizim.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form Çizim.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\2-Bahar\9-Form Çizim\obj\Debug\Form Çizim.pdb
+C:\Users\User\Desktop\9-Form Çizim\bin\Debug\Form Çizim.exe.config
+C:\Users\User\Desktop\9-Form Çizim\bin\Debug\Form Çizim.exe
+C:\Users\User\Desktop\9-Form Çizim\bin\Debug\Form Çizim.pdb
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form Çizim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form_Çizim.Form1.resources
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form_Çizim.Form2.resources
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form_Çizim.Properties.Resources.resources
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form Çizim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form Çizim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form Çizim.exe
+C:\Users\User\Desktop\9-Form Çizim\obj\Debug\Form Çizim.pdb
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form Çizim.csproj.AssemblyReference.cache
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form_Çizim.Form1.resources
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form_Çizim.Form2.resources
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form_Çizim.Properties.Resources.resources
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form Çizim.csproj.GenerateResource.cache
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form Çizim.csproj.CoreCompileInputs.cache
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form Çizim.exe
+D:\Ders Notları\Görsel Programlama Bahar\9-Form Çizim\obj\Debug\Form Çizim.pdb

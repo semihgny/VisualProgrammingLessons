@@ -1,0 +1,10 @@
+D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\WindowsService1.exe.config
+D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\WindowsService1.exe
+D:\Masaüstü\Windows Service\WindowsService1\bin\Debug\WindowsService1.pdb
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.csprojAssemblyReference.cache
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.exe
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.pdb
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.ProjectInstaller.resources
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.Service1.resources
+D:\Masaüstü\Windows Service\WindowsService1\obj\Debug\WindowsService1.csproj.GenerateResource.cache

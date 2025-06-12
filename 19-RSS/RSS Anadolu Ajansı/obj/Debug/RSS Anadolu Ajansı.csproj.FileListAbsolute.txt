@@ -1,0 +1,30 @@
+D:\Masaüstü\RSS Anadolu Ajansı\bin\Debug\RSS Anadolu Ajansı.exe.config
+D:\Masaüstü\RSS Anadolu Ajansı\bin\Debug\RSS Anadolu Ajansı.exe
+D:\Masaüstü\RSS Anadolu Ajansı\bin\Debug\RSS Anadolu Ajansı.pdb
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csprojAssemblyReference.cache
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS_Anadolu_Ajansı.Form1.resources
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS_Anadolu_Ajansı.Properties.Resources.resources
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csproj.GenerateResource.cache
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csproj.CoreCompileInputs.cache
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.exe
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.pdb
+D:\Masaüstü\RSS Anadolu Ajansı\bin\Debug\Interop.SHDocVw.dll
+D:\Masaüstü\RSS Anadolu Ajansı\bin\Debug\AxInterop.SHDocVw.dll
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\Interop.SHDocVw.dll
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\AxInterop.SHDocVw.dll
+D:\Masaüstü\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csproj.ResolveComReference.cache
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\bin\Debug\RSS Anadolu Ajansı.exe.config
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\bin\Debug\RSS Anadolu Ajansı.exe
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\bin\Debug\RSS Anadolu Ajansı.pdb
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\bin\Debug\Interop.SHDocVw.dll
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\bin\Debug\AxInterop.SHDocVw.dll
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csprojAssemblyReference.cache
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\Interop.SHDocVw.dll
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\AxInterop.SHDocVw.dll
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csproj.ResolveComReference.cache
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS_Anadolu_Ajansı.Form1.resources
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS_Anadolu_Ajansı.Properties.Resources.resources
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csproj.GenerateResource.cache
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.csproj.CoreCompileInputs.cache
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.exe
+D:\Masaüstü\Görsel Prog\RSS Anadolu Ajansı\obj\Debug\RSS Anadolu Ajansı.pdb

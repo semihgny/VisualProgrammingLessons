@@ -1,0 +1,18 @@
+C:\Users\User\source\repos\WindowsService3\bin\Debug\WindowsService3.exe.config
+C:\Users\User\source\repos\WindowsService3\bin\Debug\WindowsService3.exe
+C:\Users\User\source\repos\WindowsService3\bin\Debug\WindowsService3.pdb
+C:\Users\User\source\repos\WindowsService3\obj\Debug\WindowsService3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WindowsService3\obj\Debug\WindowsService3.ProjectInstaller.resources
+C:\Users\User\source\repos\WindowsService3\obj\Debug\WindowsService3.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsService3\obj\Debug\WindowsService3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsService3\obj\Debug\WindowsService3.exe
+C:\Users\User\source\repos\WindowsService3\obj\Debug\WindowsService3.pdb
+C:\Users\User\Desktop\Klasör İzleme\bin\Debug\WindowsService3.exe.config
+C:\Users\User\Desktop\Klasör İzleme\bin\Debug\WindowsService3.exe
+C:\Users\User\Desktop\Klasör İzleme\bin\Debug\WindowsService3.pdb
+C:\Users\User\Desktop\Klasör İzleme\obj\Debug\WindowsService3.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Klasör İzleme\obj\Debug\WindowsService3.ProjectInstaller.resources
+C:\Users\User\Desktop\Klasör İzleme\obj\Debug\WindowsService3.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Klasör İzleme\obj\Debug\WindowsService3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Klasör İzleme\obj\Debug\WindowsService3.exe
+C:\Users\User\Desktop\Klasör İzleme\obj\Debug\WindowsService3.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registry Nesnesi", "Registry Nesnesi.csproj", "{0177D5C4-1DC9-4AA2-B35F-ABFE2EBA6AE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0177D5C4-1DC9-4AA2-B35F-ABFE2EBA6AE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0177D5C4-1DC9-4AA2-B35F-ABFE2EBA6AE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0177D5C4-1DC9-4AA2-B35F-ABFE2EBA6AE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0177D5C4-1DC9-4AA2-B35F-ABFE2EBA6AE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9065C71-E50E-46BD-B1F4-402237469B74}
+	EndGlobalSection
+EndGlobal
