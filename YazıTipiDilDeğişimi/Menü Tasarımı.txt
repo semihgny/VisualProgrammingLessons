@@ -1,0 +1,6 @@
+1-Form üzerine MenuStrip nesnesi ekleniri
+2-Menü başlığı ve alt seçenekler eklenir.
+3-Seçenkleri gruplandıröak için seperatör (-) eklenir.
+4-Bir harfin altını çizmek için harfin önüne (&) eklenir.
+5-Seçeneğe kısayol tuşu atam atamak için ShortCutKeys özelliği kullanılır.
+6-Seçeneğe simge eklemek içim Image özelliği kullanılır.

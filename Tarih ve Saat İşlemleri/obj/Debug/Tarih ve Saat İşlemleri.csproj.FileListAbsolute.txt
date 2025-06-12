@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\bin\Debug\Tarih ve Saat İşlemleri.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\bin\Debug\Tarih ve Saat İşlemleri.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\bin\Debug\Tarih ve Saat İşlemleri.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih_ve_Saat_İşlemleri.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih_ve_Saat_İşlemleri.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\10-Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.pdb
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\bin\Debug\Tarih ve Saat İşlemleri.exe.config
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\bin\Debug\Tarih ve Saat İşlemleri.exe
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\bin\Debug\Tarih ve Saat İşlemleri.pdb
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih_ve_Saat_İşlemleri.Form1.resources
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih_ve_Saat_İşlemleri.Properties.Resources.resources
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.exe
+C:\Users\User\Desktop\Tarih ve Saat İşlemleri\obj\Debug\Tarih ve Saat İşlemleri.pdb

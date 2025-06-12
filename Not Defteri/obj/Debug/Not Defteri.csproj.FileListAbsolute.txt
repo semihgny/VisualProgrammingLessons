@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\bin\Debug\Not Defteri.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\bin\Debug\Not Defteri.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\bin\Debug\Not Defteri.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not Defteri.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not_Defteri.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not_Defteri.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not Defteri.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not Defteri.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not Defteri.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\8-Not Defteri\obj\Debug\Not Defteri.pdb
+C:\Users\User\Desktop\8-Not Defteri\bin\Debug\Not Defteri.exe.config
+C:\Users\User\Desktop\8-Not Defteri\bin\Debug\Not Defteri.exe
+C:\Users\User\Desktop\8-Not Defteri\bin\Debug\Not Defteri.pdb
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not Defteri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not_Defteri.Form1.resources
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not_Defteri.Properties.Resources.resources
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not Defteri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not Defteri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not Defteri.exe
+C:\Users\User\Desktop\8-Not Defteri\obj\Debug\Not Defteri.pdb

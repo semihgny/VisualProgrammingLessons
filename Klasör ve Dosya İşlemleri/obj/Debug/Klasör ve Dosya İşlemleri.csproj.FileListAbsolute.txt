@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\bin\Debug\Klasör ve Dosya İşlemleri.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\bin\Debug\Klasör ve Dosya İşlemleri.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\bin\Debug\Klasör ve Dosya İşlemleri.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör_ve_Dosya_İşlemleri.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör_ve_Dosya_İşlemleri.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.pdb
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\bin\Debug\Klasör ve Dosya İşlemleri.exe.config
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\bin\Debug\Klasör ve Dosya İşlemleri.exe
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\bin\Debug\Klasör ve Dosya İşlemleri.pdb
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör_ve_Dosya_İşlemleri.Form1.resources
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör_ve_Dosya_İşlemleri.Properties.Resources.resources
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.csproj.GenerateResource.cache
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.exe
+C:\Users\User\Desktop\9-Klasör ve Dosya İşlemleri\obj\Debug\Klasör ve Dosya İşlemleri.pdb

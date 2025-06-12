@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\bin\Debug\Hata Yakalama.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\bin\Debug\Hata Yakalama.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\bin\Debug\Hata Yakalama.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata Yakalama.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata_Yakalama.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata_Yakalama.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata Yakalama.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata Yakalama.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata Yakalama.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\12-Hata Yakalama\obj\Debug\Hata Yakalama.pdb
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata Yakalama.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata_Yakalama.Form1.resources
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata_Yakalama.Properties.Resources.resources
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata Yakalama.csproj.GenerateResource.cache
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata Yakalama.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata Yakalama.exe
+C:\Users\User\Desktop\12-Hata Yakalama\obj\Debug\Hata Yakalama.pdb
+C:\Users\User\Desktop\12-Hata Yakalama\bin\Debug\Hata Yakalama.exe.config
+C:\Users\User\Desktop\12-Hata Yakalama\bin\Debug\Hata Yakalama.exe
+C:\Users\User\Desktop\12-Hata Yakalama\bin\Debug\Hata Yakalama.pdb

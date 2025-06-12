@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\bin\Debug\Timer Kullanımı.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\bin\Debug\Timer Kullanımı.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\bin\Debug\Timer Kullanımı.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer_Kullanımı.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer_Kullanımı.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.pdb
+C:\Users\User\Desktop\11-Timer Kullanımı\bin\Debug\Timer Kullanımı.exe.config
+C:\Users\User\Desktop\11-Timer Kullanımı\bin\Debug\Timer Kullanımı.exe
+C:\Users\User\Desktop\11-Timer Kullanımı\bin\Debug\Timer Kullanımı.pdb
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer_Kullanımı.Form1.resources
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer_Kullanımı.Properties.Resources.resources
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.csproj.GenerateResource.cache
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.exe
+C:\Users\User\Desktop\11-Timer Kullanımı\obj\Debug\Timer Kullanımı.pdb

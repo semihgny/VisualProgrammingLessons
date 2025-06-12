@@ -1,0 +1,20 @@
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\bin\Debug\Metin Dosyası Okuma-Yazma.exe.config
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\bin\Debug\Metin Dosyası Okuma-Yazma.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\bin\Debug\Metin Dosyası Okuma-Yazma.pdb
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.csproj.AssemblyReference.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin_Dosyası_Okuma_Yazma.Form1.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin_Dosyası_Okuma_Yazma.Properties.Resources.resources
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.csproj.GenerateResource.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.csproj.CoreCompileInputs.cache
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.exe
+D:\GoogleDrive\VisualStudioProjects\Windows Forms\1-Güz\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.pdb
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\bin\Debug\Metin Dosyası Okuma-Yazma.exe.config
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\bin\Debug\Metin Dosyası Okuma-Yazma.exe
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\bin\Debug\Metin Dosyası Okuma-Yazma.pdb
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin_Dosyası_Okuma_Yazma.Form1.resources
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin_Dosyası_Okuma_Yazma.Properties.Resources.resources
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.csproj.GenerateResource.cache
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.exe
+C:\Users\User\Desktop\7-Metin Dosyası Okuma-Yazma\obj\Debug\Metin Dosyası Okuma-Yazma.pdb
